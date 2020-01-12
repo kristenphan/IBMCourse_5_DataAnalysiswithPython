@@ -4,3 +4,6 @@ This repository stores the work as part of the IBM Data Science Professional Cer
 Jupyter notebook URL:
 
 Assignment description:
+
+
+__Github notebook rendering issue:__ If Gibhub has problem rendering the Jupyter notebook, you are welcome to download the notebook and review it outside of this Github account.
